@@ -1,0 +1,1 @@
+console.log("la verdad es que aprendí mucho en esta sección")
